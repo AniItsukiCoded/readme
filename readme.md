@@ -1,4 +1,4 @@
-# ICH — Itsuki's Chat Hub
+# ICH — Itsuki's Chat Hub (and Games)
 
 Backup launchers for **ICH (Itsuki's Chat Hub)**. If the main instance is ever down or unreachable, use one of the mirrors below to keep going.
 
@@ -22,7 +22,3 @@ Games are on the way — some have already been released, with more coming soon.
 Join the Discord for updates, support, and announcements:
 
 **[discord.gg/MV8RD9XzvA](https://discord.gg/MV8RD9XzvA)**
-
----
-
-<sub>These are unofficial backup/mirror links — use the primary ICH link when available.</sub>
