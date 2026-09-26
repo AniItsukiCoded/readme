@@ -15,7 +15,7 @@ Backup launchers for **ICH (Itsuki's Chat Hub)**. If the main instance is ever d
 
 ## 🎮 Games
 
-Games are on the way — built in game hubs like 'gn-math' and more!
+Many different game hubs to choose from!
 
 ## 💬 Community
 
