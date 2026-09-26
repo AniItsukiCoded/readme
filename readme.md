@@ -15,7 +15,7 @@ Backup launchers for **ICH (Itsuki's Chat Hub)**. If the main instance is ever d
 
 ## 🎮 Games
 
-Games are on the way — some have already been released, with more coming soon. Stay tuned!
+Games are on the way — you will soon be able to launch game sites through ICH!
 
 ## 💬 Community
 
