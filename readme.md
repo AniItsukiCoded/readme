@@ -13,6 +13,10 @@ Backup launchers for **ICH (Itsuki's Chat Hub)**. If the main instance is ever d
 
 > 💡 If one link is down or acting up, just try the next one in the list.
 
+## 🎮 Games
+
+Games are on the way — some have already been released, with more coming soon. Stay tuned!
+
 ## 💬 Community
 
 Join the Discord for updates, support, and announcements:
