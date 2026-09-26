@@ -22,3 +22,7 @@ Games are on the way — some have already been released, with more coming soon.
 Join the Discord for updates, support, and announcements:
 
 **[discord.gg/MV8RD9XzvA](https://discord.gg/MV8RD9XzvA)**
+
+---
+
+<sub>Generated this with ai cuz im lazy, sorry it looks so bad.</sub>
