@@ -25,4 +25,4 @@ Join the Discord for updates, support, and announcements:
 
 ---
 
-<sub>Generated this with ai cuz im lazy, sorry it looks so bad.</sub>
+<sub>Generated this with ai cuz im lazy, sorry it looks so bad. (This readme)</sub>
