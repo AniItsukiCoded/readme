@@ -1,28 +1,33 @@
-# ICH — Itsuki's Chat Hub (and Games)
+ICH (Itsuki's Chat Hub)
 
-Backup launchers for **ICH (Itsuki's Chat Hub)**. If the main instance is ever down or unreachable, use one of the mirrors below to keep going.
+EASY links:
 
-## 🚀 Backup Launchers
+[Launcher 1](https://editor.p5js.org/jace01b/full/mYFtQwQgD)
 
-| # | Launcher |
-|---|----------|
-| 1 | [Launcher 1](https://editor.p5js.org/jace01b/full/mYFtQwQgD) |
-| 2 | [Launcher 2](https://editor.p5js.org/jace01b/full/2nRl7Nr41) |
-| 3 | [Launcher 3](https://editor.p5js.org/jace01b/full/1prpxaC-R) |
-| 4 | [Launcher 4](https://editor.p5js.org/jace01b/full/Pd-AaFE8Q) |
+[Launcher 2](https://editor.p5js.org/jace01b/full/2nRl7Nr41)
 
-> 💡 If one link is down or acting up, just try the next one in the list.
+[Launcher 3](https://editor.p5js.org/jace01b/full/1prpxaC-R)
 
-## 🎮 Games
+[Launcher 4](https://editor.p5js.org/jace01b/full/Pd-AaFE8Q)
 
-Many different game hubs to choose from!
+[Launcher 5](https://editor.p5js.org/jace01b/full/En16520jO)
 
-## 💬 Community
+[Launcher 6](https://editor.p5js.org/jace01b/full/WUTqx4Upg)
 
-Join the Discord for updates, support, and announcements:
+[Launcher 7](https://editor.p5js.org/jace01b/full/6_IogozHR)
 
-**[discord.gg/MV8RD9XzvA](https://discord.gg/MV8RD9XzvA)**
+[Launcher 8](https://editor.p5js.org/jace01b/full/vh0E_CreD)
 
 ---
 
-<sub>Generated this with ai cuz im lazy, sorry it looks so bad. (This readme)</sub>
+if one of the links is blocked or not loading, just try the next one. they all go to the same place.
+
+---
+
+ICH is a chat hub with a ton of games on it. there are a bunch of different game hubs, so you can pick whichever one you want and start playing.
+
+this repo is just here for the backup links in case the main site goes down.
+
+---
+
+Discord (updates, help, announcements): [discord.gg/MV8RD9XzvA](https://discord.gg/MV8RD9XzvA)
