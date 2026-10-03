@@ -18,6 +18,9 @@ EASY links:
 
 [Launcher 8](https://editor.p5js.org/jace01b/full/vh0E_CreD)
 
+[Launcher Code](https://github.com/AniItsukiCoded/backups/tree/main)
+
+
 ---
 
 if one of the links is blocked or not loading, just try the next one. they all go to the same place.
