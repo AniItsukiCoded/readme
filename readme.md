@@ -1,18 +1,16 @@
 ICH (Itsuki's Chat Hub)
 
-*I am aware of it AUTO CLOSING about:blank tabs, this will be fixed when I get home after school for Canva, other launchers auto update (I forgot to use the auto update file on Canva or something)*
+Added a new option, to bypass the new "about:blank" auto close feature they added today 💔  
 
 EASY links:
 
 Canva:
 
-[Launcher 1](https://gazelle-0br9zq.my.canva.site/ich-launcher-backup-1)
+[Launcher 1](sukischathub-launcher.my.canva.site/ich-launcher-backup-1)
 
-[Launcher 2](https://gazelle-0br9zq.my.canva.site/ich-launcher)
+[Launcher 2](sukischathub-launcher.my.canva.site)
 
-[Launcher 3](https://gazelle-0br9zq.my.canva.site/ich)
-
-[Launcher 4](https://itsukischathub.my.canva.site/)
+[Launcher 3](https://itsukischathub.my.canva.site/)
 
 Google Sites:
 
