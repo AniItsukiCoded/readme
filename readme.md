@@ -1,6 +1,6 @@
 ICH (Itsuki's Chat Hub)
 
-*I am aware of it AUTO CLOSING about:blank tabs, this will be fixed when I get home after school for Canva, other launchers auto update (I forgot to use the auto update file on Canva or something) *
+*I am aware of it AUTO CLOSING about:blank tabs, this will be fixed when I get home after school for Canva, other launchers auto update (I forgot to use the auto update file on Canva or something)*
 
 EASY links:
 
