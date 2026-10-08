@@ -12,6 +12,10 @@ Canva:
 
 [Launcher 3](https://itsukischathub.my.canva.site/)
 
+[Launcher 4](https://1143.my.canva.site)
+
+[Launcher 5](https://itsukis-chat-hub-by-jace.my.canva.site)
+
 Google Sites:
 
 [Launcher 1](https://sites.google.com/view/itsukis-chat-hub/main)
