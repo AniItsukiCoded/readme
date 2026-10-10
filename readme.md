@@ -1,6 +1,7 @@
 ICH (Itsuki's Chat Hub)
 
-Added a new option, to bypass the new "about:blank" auto close feature they added today 💔  
+🔥 !! NEW BYPASS !! - Since for lightspeed at most schools, you now longer could open about:blank tabs without it auto closing, HAS BEEN BYPASSED! ! 🔥
+(you can now launch in new tabs again without it closing!)
 
 EASY links:
 
