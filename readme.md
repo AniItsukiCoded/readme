@@ -6,7 +6,7 @@ May I also add both ICH (Itsukis Chat Hub) and VUS (Vlads Unblocked Sites) are h
 
 EASY links:
 
-Google Scripts (Reccomended)
+Google Scripts (Reccomended):
 
 [Launcher 1](https://script.google.com/macros/s/AKfycbyuWXwDPcH0Din9xt4tqzTdPV66nVksdcWFftculkaV/dev)
 
