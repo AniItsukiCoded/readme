@@ -8,7 +8,7 @@ EASY links:
 
 Google Scripts (Fixing):
 
-[Launcher 1](https://script.google.com/macros/s/AKfycbyuWXwDPcH0Din9xt4tqzTdPV66nVksdcWFftculkaV/dev)
+[Launcher 1](https://script.google.com/macros/s/AKfycbwSFvKcB11vToeASyhx35Uy_Ln0YN65DJC3VdnBK7zuKAxZjhoZlLkyc8MnHfmcJriRhg/exec)
 
 [Launcher 2](https://script.google.com/macros/s/AKfycbw8Qmn_jKARoLm8hvukg9hANaMxjaDcVT2PGd-ceT0/dev)
 
