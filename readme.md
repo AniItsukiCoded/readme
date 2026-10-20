@@ -2,7 +2,7 @@ ICH (Itsuki's Chat Hub)
 
 Added UNBLOCKABLE PROXY (Unblocked), it cant get blocked! Added "Cherri" Proxy built in, if it says its "Blocked", reopen it and itll be unblocked again.
 
-EASY links: ( IDK how to use codepen, download the launcher or get the code and upload it ):
+EASY links: ( IDK how to use codepen, download the launcher or copy the code and upload it or run the code ):
 
 [Download - Github](https://github.com/AniItsukiCoded/backups/blob/main/(USE)%20-%20Launcher%20Loader.html)
 
