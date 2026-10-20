@@ -1,10 +1,10 @@
 ICH (Itsuki's Chat Hub)
 
-For schools that auto close about:blank tabs, a new bypass has been made and works for most schools! Make sure you launch "Itsukis Chat Hub", all games, proxies, apps, and more, are located in "Hubs & Tools". On the launcher page you can see my own games as well.
+Added UNBLOCKABLE PROXY (Unblocked), it cant get blocked! Added "Cherri" Proxy built in, if it says its "Blocked", reopen it and itll be unblocked again.
 
-May I also add both ICH (Itsukis Chat Hub) and VUS (Vlads Unblocked Sites) are having a colab soon and a whole new launcher, so stay tuned.
+EASY links: ( IDK how to use codepen, download the launcher or get the code and upload it ):
 
-EASY links:
+[Download - Github](https://github.com/AniItsukiCoded/backups/blob/main/(USE)%20-%20Launcher%20Loader.html)
 
 Google Scripts (Fixed):
 
