@@ -6,6 +6,8 @@ EASY links: ( IDK how to use codepen, download the launcher or copy the code and
 
 [Download - Github](https://github.com/AniItsukiCoded/backups/blob/main/(USE)%20-%20Launcher%20Loader.html)
 
+[Download Backup - Github](https://github.com/AniItsukiCoded/backups/)
+
 Google Scripts (Fixed):
 
 [Launcher 1](https://script.google.com/macros/s/AKfycbwSFvKcB11vToeASyhx35Uy_Ln0YN65DJC3VdnBK7zuKAxZjhoZlLkyc8MnHfmcJriRhg/exec)
