@@ -1,12 +1,10 @@
 ICH (Itsuki's Chat Hub)
 
-Added UNBLOCKABLE PROXY (Unblocked), it cant get blocked! Added "Cherri" Proxy built in, if it says its "Blocked", reopen it and itll be unblocked again.
+Added 1v1.LOL (1v1.Arena, my remade version of 1v1.LOL, you can find it in APPS!)
 
-EASY links: ( IDK how to use codepen, download the launcher or copy the code and upload it or run the code ):
+EASY links:
 
 [Download - Github](https://github.com/AniItsukiCoded/backups/blob/main/(USE)%20-%20Launcher%20Loader.html)
-
-[Download Backup - Github](https://github.com/AniItsukiCoded/backups/)
 
 p5js: (Yes, it works again and is unblocked!)
 
