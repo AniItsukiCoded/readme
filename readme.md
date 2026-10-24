@@ -14,7 +14,7 @@ p5js: (Yes, it works again and is unblocked!)
 
 [Launcher 3](https://editor.p5js.org/jace01b/full/1prpxaC-R)
 
-Data Url: (Tech by Da_Goat, bypassed the blocked Data links!)
+Data Url: (Tech by Da_Goat, bypasses the blocked Data links!)
 
 Launcher 1:
 
