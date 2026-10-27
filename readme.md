@@ -1,4 +1,4 @@
-ICH (Itsuki's Chat Hub) - All 19 official launchers.
+ICH (Itsuki's Chat Hub) - All 19 official launchers + launcher code and download..
 
 Fully revamped the launcher, it looks a lot better, all apps, games, hubs, and proxies are now all unlocked, no login needed, as well as a lot more added!
 
