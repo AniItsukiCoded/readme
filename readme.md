@@ -6,10 +6,6 @@ EASY links:
 
 [Download - Github](https://github.com/AniItsukiCoded/backups/blob/main/(USE)%20-%20Launcher%20Loader.html)
 
-liveweave: (NEW)
-
-[Launcher 1](https://liveweave.com/6soIe7)
-
 p5js: (Status: Blocked (Again))
 
 [Launcher 1](https://editor.p5js.org/jace01b/sketches/mYFtQwQgD)
@@ -17,6 +13,10 @@ p5js: (Status: Blocked (Again))
 [Launcher 2](https://editor.p5js.org/jace01b/full/WUTqx4Upg)
 
 [Launcher 3](https://editor.p5js.org/jace01b/full/1prpxaC-R)
+
+liveweave: (NEW)
+
+[Launcher 1](https://liveweave.com/6soIe7)
 
 Data Urls: (Launcher out of date but still WORKS)
 
