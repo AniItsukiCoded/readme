@@ -26,7 +26,7 @@ liveweave: (NEW)
 
 [Launcher 1](https://liveweave.com/6soIe7)
 
-Data Urls: (Launcher out of date but still WORKS)
+Data Urls: (Launcher out of date but still WORKS, most likley BLOCKED!)
 
 Launcher 1:
 
