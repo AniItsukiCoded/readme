@@ -6,7 +6,11 @@ EASY links:
 
 [Download - Github](https://github.com/AniItsukiCoded/backups/blob/main/(USE)%20-%20Launcher%20Loader.html)
 
-p5js: (Yes, it works again and is unblocked!)
+p5js: (NEW)
+
+[Launcher 1](https://liveweave.com/6soIe7)
+
+p5js: (Status: Blocked (Again))
 
 [Launcher 1](https://editor.p5js.org/jace01b/sketches/mYFtQwQgD)
 
