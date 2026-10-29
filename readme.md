@@ -14,6 +14,14 @@ p5js: (Status: Blocked (Again))
 
 [Launcher 3](https://editor.p5js.org/jace01b/full/1prpxaC-R)
 
+Onecompiler: (NEW)
+
+[Launcher 1](https://onecompiler.com/html/457n2fx37)
+
+[Launcher 2](https://onecompiler.com/html/457n2j96e)
+
+[Launcher 3](https://onecompiler.com/html/457n2k75r)
+
 liveweave: (NEW)
 
 [Launcher 1](https://liveweave.com/6soIe7)
