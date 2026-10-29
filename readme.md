@@ -8,11 +8,11 @@ EASY links:
 
 p5js: (Status: Blocked (Again))
 
-[Launcher 1](https://editor.p5js.org/jace01b/sketches/mYFtQwQgD)
+[Launcher 1](https://editor.p5js.org/AniItsuki/sketches/mYFtQwQgD)
 
-[Launcher 2](https://editor.p5js.org/jace01b/full/WUTqx4Upg)
+[Launcher 2](https://editor.p5js.org/AniItsuki/full/WUTqx4Upg)
 
-[Launcher 3](https://editor.p5js.org/jace01b/full/1prpxaC-R)
+[Launcher 3](https://editor.p5js.org/AniItsuki/full/1prpxaC-R)
 
 Onecompiler: (NEW)
 
