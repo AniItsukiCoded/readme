@@ -14,6 +14,10 @@ p5js: (Status: Blocked (Again))
 
 [Launcher 3](https://editor.p5js.org/AniItsuki/full/1prpxaC-R)
 
+Codepen: (NEW)
+
+[Launcher 1](https://cdpn.io/ItsukiCoded/fullpage/EaWONEa)
+
 Onecompiler: (NEW)
 
 [Launcher 1](https://onecompiler.com/html/457n2fx37)
