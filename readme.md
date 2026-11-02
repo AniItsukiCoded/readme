@@ -22,7 +22,7 @@ Onecompiler: (NEW)
 
 [Launcher 3](https://onecompiler.com/html/457n2k75r)
 
-liveweave: (NEW)
+liveweave: (NEW) - Refresh to load code
 
 [Launcher 1](https://liveweave.com/6soIe7)
 
